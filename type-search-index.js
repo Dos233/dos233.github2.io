@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"my.assignment","l":"AllStudentInfo"},{"p":"my.example","l":"App"},{"p":"my.example","l":"AppTest"},{"p":"my.assignment","l":"MyBot"},{"p":"my.assignment","l":"PageElement"}];updateSearchResults();
